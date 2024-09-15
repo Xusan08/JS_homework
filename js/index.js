@@ -25,11 +25,7 @@
 // }
 // console.log("s =", s);
 
-// let n = 10;
-// let k = 5;
-// for (let i = 0; i < k; i++) {
-//   console.log(n);
-// }
+
 
 // let k = 20000;
 // for (let i = 0.1; i <= 1; i += 0.1) {
