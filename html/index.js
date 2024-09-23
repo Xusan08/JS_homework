@@ -28,8 +28,9 @@
 
 // let a = Number(prompt("birinchi son"));
 // let b = Number(prompt("ikkinchi son"));
-
 // console.log(a ** b);
+
+//funksiyada min va max ga array orqali tekshiramiz
 
 // const max = function (...agrs) {
 //   let max = agrs[0];
@@ -42,25 +43,27 @@
 // }
 // console.log(max(17, 100, 299, 302, 302.01, 87));
 
-// console.log(globalThis);
-// for (let i = 1; i <= 10; i += 1) {
-//   console.log(i)
-// }
+
+//shartli operator ternary
+
 // let a = 29;
 // let b = 42;
 // let x = a <= b ? "to'g'ri" : "Xato"
 // console.log(x);
 
-let a = Number(prompt("yoshingiz"));
-let son;
-switch (a) {
-  case 1: son = "Dushanba"; break;
-  case 2: son = "Seshanba"; break;
-  case 3: son = "Chorshanba"; break;
-  case 4: son = "Payshanba"; break;
-  case 5: son = "Juma"; break;
-  case 6: son = "Shanba"; break;
-  case 7: son = "Yakshanba"; break;
-  default: son = "Faqat hafta kunlarini kiriting";
-}
-console.log(son);
+//hafta kunlariga tekshiramiz
+
+// let a = Number(prompt("yoshingiz"));
+// let son;
+// switch (a) {
+//   case 1: son = "Dushanba"; break;
+//   case 2: son = "Seshanba"; break;
+//   case 3: son = "Chorshanba"; break;
+//   case 4: son = "Payshanba"; break;
+//   case 5: son = "Juma"; break;
+//   case 6: son = "Shanba"; break;
+//   case 7: son = "Yakshanba"; break;
+//   default: son = "Faqat hafta kunlarini kiriting";
+// }
+// console.log(son);
+
