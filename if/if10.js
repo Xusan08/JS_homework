@@ -1,6 +1,11 @@
-// if 10
+// Berilgan sonni quyidagi shartlarga tekshiring:
+//"musbat toq son"
+//"musbat juft son"
+//"manfiy toq son"
+//"manfiy juft son"
+//"Son 0 ga teng"
 
-let a = 0;
+let a = 10;
 if (a > 0 && a % 2 === 1) {
   console.log("musbat toq son");
 } else if (a > 0 && a % 2 === 0) {

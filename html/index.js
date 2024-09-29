@@ -67,3 +67,13 @@
 // }
 // console.log(son);
 
+
+//qanday son kiritilsa ham o'zidan bitta keyingi songa qo'shib chiqarib bersin
+
+// let a = Number(prompt("kiriting"));
+// let s = a + 1;
+// let x;
+// if (a > 0) {
+//   x = a + s;
+// }
+// console.log(`${a} + ${s} = ${x}`)
